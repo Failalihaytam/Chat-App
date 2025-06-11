@@ -1,6 +1,0 @@
-Group Chat History for Group ID: 1
-
-[2025-04-09 20:01:47.0] haytam@gmail.com: heey
-[2025-04-09 20:01:55.0] youssef@gmail.com: hello
-[2025-04-10 12:53:27.0] youssef@gmail.com: salam
-[2025-04-10 12:53:47.0] haytam@gmail.com: yooo
